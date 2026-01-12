@@ -1,86 +1,26 @@
-# 👋 Hi, I'm Vinayak Amarasingh Patil
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is VINAYAK PATIL
+======================================================================================================================================
 
-📍 Karnataka, India  
-🎓 B.Tech Computer Science & Engineering Student  
-💻 Frontend Web Developer  
+Frontend Web Developer | B.Tech CSE Student | HTML • CSS • JavaScript
+---------------------------------------------------------------------
 
----
+I am a Computer Science and Engineering student with a strong foundation in HTML, CSS, and JavaScript.
 
-## 👨‍💼 Profile Summary
-Computer Engineering student with a strong foundation in **HTML, CSS, and JavaScript**, basic knowledge of backend technologies, and programming experience in **C, C++, Java, Python, and MySQL**.  
-I have good **leadership, time management, and communication skills**, with a keen interest in **frontend web development** and **portfolio-based projects**.
+I enjoy building responsive and user-friendly web interfaces and working on portfolio-based frontend projects.
 
----
+I have programming experience in C, C++, Java, Python, and MySQL, along with good leadership and time management skills.
 
-## 🎓 Education
-**B.Tech in Computer Science and Engineering**  
-📍 Sanjay Ghodawat University  
-📊 CGPA: **7.67**  
-📅 2022 – Present  
+* 🌍  I'm based in kolhapur, India
+* ✉️  You can contact me at [vinayakpatil5310@gmail.com](mailto:vinayakpatil5310@gmail.com)
+* 🧠  I'm currently learning JavaScript (Advanced Concepts) Responsive Web Design Basic Backend Development Git & GitHub Best Practices
+* 👥  I'm looking to collaborate on Frontend web development projects HTML, CSS, and JavaScript based websites Portfolio and projects Beginner-friendly open-source projects
+* 💬  Ask me about Improving JavaScript skills through hands-on projects Building frontend clone projects Enhancing my personal portfolio website Practicing clean UI and responsive layouts
 
----
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+</p>
 
-## 🛠️ Technical Skills
+### Socials
 
-### 💻 Programming Languages
-- C  
-- C++  
-- Java  
-- Python  
-- **JavaScript**
-
-### 🗄️ Database
-- MySQL  
-
-### 🌐 Web Technologies
-- HTML5  
-- CSS3  
-- **JavaScript (ES6+)**
-
-### 🤝 Soft Skills
-- Time Management  
-- Leadership Skills  
-- Communication Skills  
-
----
-
-## 📂 Projects
-
-### 🦸 Marvel Clone
-- Designed a Marvel-themed website clone using **HTML, CSS, and JavaScript**
-- Implemented responsive layouts and interactive UI components  
-🔗 *Project Link:* (Add GitHub repo link)
-
----
-
-### 🛒 Amazon Clone
-- Created an Amazon homepage clone using **HTML, CSS, and JavaScript**
-- Focused on layout structuring, navigation bar design, and product section styling  
-🔗 *Project Link:* (Add GitHub repo link)
-
----
-
-### 🌐 Personal Portfolio Website
-- Developed a personal portfolio website showcasing skills, projects, and contact details
-- Implemented clean UI design, responsiveness, and basic JavaScript interactions  
-🔗 *Project Link:* (Add GitHub repo link)
-
----
-
-## 🌍 Languages
-- English  
-- Marathi  
-- Kannada  
-- Hindi  
-
----
-
-## 📫 Connect With Me
-📧 Email: vinayakpatil5310@gmail.com  
-💼 LinkedIn: (Add your LinkedIn profile link)  
-🐙 GitHub: https://github.com/your-username  
-
----
-
-⭐ **Thank you for visiting my GitHub profile!**
-
+<p align="left"> <a href="https://www.github.com/vinayakpatil-007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkvinayak-patil-304682307/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+ProfileMe.dev | Create an amazing GitHub profile in minutes
